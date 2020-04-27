@@ -19,18 +19,12 @@ app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 asin_title_dict = None
 model = None
-# train = pd.read_csv('static/data/train_df.csv')
-# cat = pd.read_csv('static/data/categories.csv')
-# categories = cat[['scale_id','category_description','category']]
-# df_select = train[['title','job_id','scale_id','scale_name','element_name','data_value','category']]
 
-# job_code = train['job_id'].unique().tolist()
-# title = train['title'].unique().tolist()
 
 if asin_title_dict is None or model is None:
     model = tf.keras.models.load_model('xray_model.h5')
     
-# # L2-normalized vectors.
+
 
 model.compile(loss='binary_crossentropy',
 
