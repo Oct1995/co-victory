@@ -12,3 +12,10 @@
 - Flask==1.1.1
 - pandas==0.25.3
 - opencv-python==4.2.0.32
+
+--- 
+
+#### You can downlaod the testing dataset from the below link
+- Please Note that this is only for testing purposes
+
+- [Dataset](https://drive.google.com/file/d/1ExastM0NoTS8JmBoalO7xIvK8om8ifIl/view?usp=sharing)
