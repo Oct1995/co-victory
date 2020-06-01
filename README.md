@@ -1,4 +1,12 @@
-# co-victory
+# co-victory | Identify Covid-19 Infection From Chest X-ray 
+
+### Summarizations 
+
+Medical imaging is one of the most valuable sources of diagnostic information but is dependent on human interpretation and subject to increasing resource challenges. The need for, and availability of, diagnostic images is rapidly exceeding the capacity of available specialists. Automated diagnosis from medical imaging through AI, especially in the subfield of deep learning, might be able to address this problem.  deep learning  algorithms  attempts to learn and process information by creating artificial "neural networks" that can extract complicated concepts and relationships from data and provide a rapid and interactive responses to resolve issues faster , and to take feedback. 
+
+### Demonstrate Video 
+
+[Watch Demonstration Video](https://drive.google.com/file/d/1LIXQgUD7_91pMWUemg2OVkp5iYmx5CG5/view?usp=sharing)
 
 
 ### requirements to run the app 
